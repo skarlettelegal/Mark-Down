@@ -16,4 +16,7 @@ espacio espacio enter, bajar una linea
 \#Bloqueado de simbolo \#aprendiendoausarGithub 
 (option + ?) para hacer el # sin problema
 
-##Links e imagenes
+## Links e imagenes
+
+Links: [Gatos](https://purina.cl/sites/default/files/2025-04/razas-de-gatos.jpg)  
+Link e Imagen: ![]
