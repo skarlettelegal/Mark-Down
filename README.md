@@ -22,4 +22,17 @@ espacio espacio enter, bajar una linea
 Links: [Gatos](https://purina.cl/sites/default/files/2025-04/razas-de-gatos.jpg)  
 Imagen: ![gato y conejo](https://www.zooplus.es/magazine/wp-content/uploads/2020/10/Gatos-y-roedores-juntos.webp)  
 
-Link e Imagen [![mas gatosss](<img width="1200" height="926" alt="image" src="https://github.com/user-attachments/assets/9a7ebc7e-c009-4dbb-be95-c0ec82ffc1a8" />)](https://misanimales.com/cuantas-razas-gatos-existen/)
+Link e Imagen [![mas gatos](https://animalcity.es/clinica/wp-content/uploads/2021/08/Principal-gato-acicalandose-min.jpg)](https://animalcity.es/clinica/cuidados-basicos-de-los-gatos/?srsltid=AfmBOoqSdluwDpeIkk0u8hqznvT_TNcy1fyPh6G5JjKM_QM5_XHQu6zX)
+
+### Bloques de codigos
+ ´´´Perfil de GIthub´´´
+
+### Tablas 
+
+
+
+#ENCARGO prox clase
+* Pasar clase a Bitacora
+
+* Inspiracion en artista geometrico o abstracto y hacer un dibujo en papel milimitrado usando solo figuras primitivas 2D, Elegir artista, y hacer un dibujo inspirado, se entrega en papel fisico, por lo menos 50 cuadrados 50*50 (usaremps 50 pixeles x 50)
+
