@@ -31,8 +31,14 @@ Link e Imagen [![mas gatos](https://animalcity.es/clinica/wp-content/uploads/202
 
 
 
-#ENCARGO prox clase
+# ENCARGO prox clase
+
+
 * Pasar clase a Bitacora
-
 * Inspiracion en artista geometrico o abstracto y hacer un dibujo en papel milimitrado usando solo figuras primitivas 2D, Elegir artista, y hacer un dibujo inspirado, se entrega en papel fisico, por lo menos 50 cuadrados 50*50 (usaremps 50 pixeles x 50)
-
+* El dibujo puede ser mas pequeño que la hoja
+* artista de figuras abstractas o geometricas
+* colores planos, cualquier color
+* ountos, lineas rectas, triangulos, cuadrados, arcos, elipses, circulos, todos deben estar incluidos mas rectangulos con variaciones
+* link a pinteres para artistas
+* Entregar, Dibujo subido a la bitacora, mas apuntes de la bitacora. clase uno 
