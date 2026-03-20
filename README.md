@@ -18,5 +18,8 @@ espacio espacio enter, bajar una linea
 
 ## Links e imagenes
 
+
 Links: [Gatos](https://purina.cl/sites/default/files/2025-04/razas-de-gatos.jpg)  
-Link e Imagen: ![]
+Imagen: ![gato y conejo](https://www.zooplus.es/magazine/wp-content/uploads/2020/10/Gatos-y-roedores-juntos.webp)  
+
+Link e Imagen [![mas gatosss](<img width="1200" height="926" alt="image" src="https://github.com/user-attachments/assets/9a7ebc7e-c009-4dbb-be95-c0ec82ffc1a8" />)](https://misanimales.com/cuantas-razas-gatos-existen/)
