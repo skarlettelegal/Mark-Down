@@ -15,3 +15,5 @@ espacio espacio enter, bajar una linea
 
 \#Bloqueado de simbolo \#aprendiendoausarGithub 
 (option + ?) para hacer el # sin problema
+
+##Links e imagenes
